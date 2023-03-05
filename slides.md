@@ -59,7 +59,7 @@ Appliquer le modèle classique à la monnaie "fiduciaire" moderne n'est pas du t
 #### rapport prix/travail
 Les matières premières sont rationnelles, les bitcoins et les objets de collection sont irrationnels.
 <table>
-<tr><th>Coconuts</th><td>Fongible</td><td>Des prix élevé attirent plus de travail</td></td><td>Plus de travail signifie plus d'offre</ td></td><td><td></tr>.
+<tr><th>Coconuts</th><td>Fongible</td><td>Des prix élevé attirent plus de travail</td></td><td>Plus de travail signifie plus d'offre</td></td><td></td></tr>.
 <tr><th>Peintures</th><td>Non fongible</td><td>Des prix élevé n'attirent pas nécessairement plus de travail</td></td><td>Plus de travail ne cree pas plus d'offre</td></tr>.
 <tr><th>Bitcoin</th><td>Fongible</td>Des prix élevés attirent plus de travail</td></td><td>Plus de travail ne cree pas plus d'offre</td> </tr>.
 </table>
